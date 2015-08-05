@@ -1,0 +1,144 @@
+
+@import url(http://we;pveiconfonts.com/api/?family=zocial);
+
+[class*="zocial-"]:before {
+	font-family: "zocial", sans-serif;
+	width: 1.9em;
+	text-shadow: 2.7px 2.7px 2.7px #aaa;
+}
+
+a {
+	margin: 0 1em 0 0;
+}
+
+a:last-of-type {
+	margin: 0;
+}
+
+.zocialmargins {
+	margin-top: 120px;
+}
+
+body {
+	font-family: 100 1em "Source Sans Pro", sans-serif;
+	color: #747704;
+	font-weight: 100;
+}
+
+p {
+	text-indent: 40px;
+	margin: 0 0 30px 0 ;
+}
+
+h3 {
+	margin: 30px 0px 15px 0px;
+}
+.container {
+	background-color: #e6f2f4;
+}
+
+.header {
+  height: 25vw;
+  max-height: 150px;
+  width: 100%;
+}
+
+.title-super {
+	font-size: 60px;
+	margin: 40px 0 0px 0;
+	color: #056476;
+}
+
+.title-logo {
+	margin-top: 15px;
+	margin-left: 20px;
+	float: left;
+	width: 85%;
+	max-height: 100%;
+}
+
+.text-color {
+	color: #044b58;
+}
+
+.text-muted {
+	color: #e59400;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.hr {
+	height: 2px;
+	border-width: 1px;
+	border-color: #056476;
+}
+
+.content {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero {
+  padding: 1.5em;
+  max-width: 100%;
+  background-color: #077e94;
+  color: white;
+}
+
+.hero1 {
+  padding: 1em;
+  max-width: 100%;
+  background-color: #e59400;
+  color: white;
+}
+
+.hero2 {
+  padding: 1em;
+  max-width: 100%;
+  background-color: #077e94;
+  color: white;
+}
+
+.hero3 {
+  padding: 1em;
+  max-width: 100%;
+  background-color: #e59400;
+  color: white;
+}
+
+.mtop {
+	margin-top: 20px;
+}
+
+.my-picture {
+  width: 324px;
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+.pic1 {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 275px;
+  border: 2px solid white;
+}
+
+.pic2 {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 275px;
+  border: 2px solid white;
+}
+
+.pic3 {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 275px;
+  border: 2px solid white;
+}
